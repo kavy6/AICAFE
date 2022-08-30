@@ -1,2 +1,2 @@
 # AICAFE
-Artificial Intelligence Communication Assistant For the Elderly
+Artificial Intelligence Communication Assistant For the Elderly (AI CAFE) is a chatbot for senior citizens. First, it authenticates the user using facial recognition in a live environment. Then, the chatbot function is called and AI CAFE asks the user some routine questions about their health and wellness. Using sentiment analysis, the chatbot determines if human intervention is required (based on the number of negative responses). If so, a caregiver is notified.
